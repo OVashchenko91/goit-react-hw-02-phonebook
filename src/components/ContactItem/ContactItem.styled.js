@@ -13,7 +13,7 @@ export const Button = styled.button`
     box-shadow: 0px 2px 5px lightgrey;
     //height: 40px;
     //width: 105px;
-    background-color: lightcyan;
+    background-color: red;
     text-transform: lowercase;
     font-weight: 550;
 

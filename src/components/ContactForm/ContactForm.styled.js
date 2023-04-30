@@ -6,7 +6,7 @@ export const Form = styled.form`
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: lightgray;
+    background-color: #7ae4f2;
     border-radius: 6px;
     box-shadow: 0px 2px 5px lightgrey;
     padding: 15px 30px;
@@ -32,7 +32,7 @@ export const Button = styled.button`
     box-shadow: 0px 2px 5px lightgrey;
     height: 40px;
     width: 105px;
-    background-color: lightcyan;
+    background-color: green;
     text-transform: lowercase;
     font-weight: 700;
 

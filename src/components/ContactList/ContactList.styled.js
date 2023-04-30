@@ -5,7 +5,7 @@ export const ContactListEl = styled.ul`
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-color: lightgray;
+    background-color: #b4bcea;
     border-radius: 6px;
     box-shadow: 0px 2px 5px lightgrey;
     padding: 15px 30px;
